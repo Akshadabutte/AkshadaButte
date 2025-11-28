@@ -62,7 +62,7 @@ Here are some of my favorite projects. Be sure to check them out!
 | Project | Description | Tech Stack | Links |
 |----------|-------------|------------|-------|
 | 🌲 **Forest Fire & Human Detection System** | A data-driven model achieving ≈97.5% accuracy using XGBoost for early fire detection and human activity monitoring. | Python, XGBoost, HTML, CSS, JS | [GitHub](#) |
-| 💻 **Real-Time Collaborative Code Editor** | Full-stack web app for real-time multi-user coding using React, Node.js, and Socket.IO. | React.js, Node.js, Socket.IO | [GitHub](#) |
+| 💻 **Real-Time Collaborative Code Editor** | Full-stack web app for real-time multi-user coding using React, Node.js, and Socket.IO. | React.js, Node.js, Socket.IO | [GitHub](https://github.com/Akshadabutte/Code-Editor) |
 
 ---
 
