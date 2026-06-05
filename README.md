@@ -61,8 +61,9 @@ Here are some of my favorite projects. Be sure to check them out!
 
 | Project | Description | Tech Stack | Links |
 |----------|-------------|------------|-------|
-| 🌲 **Forest Fire & Human Detection System** | A data-driven model achieving ≈97.5% accuracy using XGBoost for early fire detection and human activity monitoring. | Python, XGBoost, HTML, CSS, JS | [GitHub](#) |
-| 💻 **Real-Time Collaborative Code Editor** | Full-stack web app for real-time multi-user coding using React, Node.js, and Socket.IO. | React.js, Node.js, Socket.IO | [GitHub](https://github.com/Akshadabutte/Code-Editor) |
+| 🌲 **Forest Fire & Human Detection System** | A data-driven model achieving ≈97.5% accuracy using XGBoost for early fire detection and human activity monitoring. | Python, XGBoost, HTML, CSS, JavaScript | [GitHub](#) |
+| 💻 **Real-Time Collaborative Code Editor** | Full-stack web application enabling real-time multi-user coding and collaboration using WebSockets. | React.js, Node.js, Socket.IO | [GitHub](https://github.com/Akshadabutte/Code-Editor) |
+| 🧠 **AI-Powered Mental Health Support Application** | An intelligent wellness platform featuring an AI chatbot, mood tracking, self-assessment tools, digital journaling, habit monitoring, secure API integration, Gemini AI support, and multilingual accessibility to provide personalized mental health assistance. | React.js, Node.js, Express.js, Gemini AI, MongoDB, REST APIs | [GitHub](https://github.com/Akshadabutte/MindCare-AI) |
 
 ---
 
